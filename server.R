@@ -140,7 +140,7 @@ function(input, output) {
                              marker = list(color = '#86ac6a'))
     fig <- fig %>% layout(yaxis = list(title = ''), barmode = 'stack',
                           xaxis = list(title = 'Age'),
-                          title = list(text=paste0('Education Level Impact',
+                          title = list(text=paste0('Subscription Rate by Age Group',
                                                    '<br>',
                                                    '<sup>',
                                                    'Success rates across different age demographics',
