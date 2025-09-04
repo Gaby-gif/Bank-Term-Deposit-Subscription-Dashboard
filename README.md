@@ -3,6 +3,7 @@
 Here's the link : https://gaby-drms.shinyapps.io/Bank_Dashboard/
 #### Next updates :
  - Campaign Performance Trend : A chart that analyze the performance of the campaign per month
+ - Key Insight : Optimal Age Range, Best way to contat, Education Factor. What would be the behavior and profile of a customer most likely to open a term deposit account ? 
  - Binary Classification : Add a new tab that will predict whether a client will subscribe to a bank term deposit
 
 #### About this dataset
